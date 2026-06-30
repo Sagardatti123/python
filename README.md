@@ -1,35 +1,30 @@
 
-🐍 Python Practice Assignments
-📖 Overview
+# Python Practice Assignments
 
-This repository contains my Python practice assignments covering the fundamental programming concepts that are essential for coding interviews, campus placements, and problem-solving.
+# Overview 
+This repository contains my Python practice assignments focused on strengthening core programming concepts and problem-solving skills. The programs are implemented using Python and cover commonly asked coding questions for interviews, campus placements, and technical assessments.
 
-The assignments are designed to strengthen logical thinking and improve coding skills by solving problems using Python.
+# Loops 
+Solving problems using for and while loops, nested loops, iteration techniques, and pattern printing.
 
-📚 Topics Covered
-🔹 Variables and Data Types
-🔹 Conditional Statements (if, elif, else)
-🔹 Loops (for, while)
-🔹 Pattern Printing
-🔹 Strings
-🔹 Lists
-🔹 Tuples
-🔹 Sets
-🔹 Dictionaries
-🔹 Functions
-🔹 Number-Based Programs
-🔹 String Manipulation
-🔹 List Operations
-🔹 Dictionary Problems
-🔹 Basic Algorithms
-🔹 Logical & Coding Practice Questions
-🎯 Objectives
-Improve Python programming skills
-Build strong logical reasoning
-Practice interview-oriented coding problems
-Strengthen problem-solving abilities
-Prepare for coding assessments and technical interviews
-🛠️ Technologies Used
-Language: Python 3
-IDE: Jupyter Notebook
-Version Control: Git & GitHub
+# Strings  
+String manipulation, indexing, slicing, palindrome checks, character frequency, anagrams, and other text-processing problems.
+# Lists  
+Creating, updating, searching, sorting, reversing, and solving algorithmic problems using Python lists.
+# Tuples 
+Working with immutable sequences, tuple operations, packing, unpacking, and tuple-based programming exercises.
+# Sets  
+Performing set operations such as union, intersection, difference, duplicate removal, and membership testing.
+# Dictionaries 
+Implementing key-value data structures, counting frequencies, data mapping, and dictionary-based problem solving.
+# Logical Programming 
+Developing problem-solving skills through coding challenges, number-based programs, and interview-oriented questions
+
+
+# Learning Outcomes
+
+Through these assignments, I have improved my ability to:
+
+1.Write clean and efficient Python code
+
+2.Apply loops effectively
